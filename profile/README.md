@@ -13,4 +13,4 @@ A Tech-loving open-to-all community.
 - Web site: https://ourtech.community
 - Twitter: https://twitter.com/OurTechComm
 - Telegram: https://t.me/OurTechComm
-- e-mail: [ourtechcommunity2@gmail.com](mailto:ourtechcommunity2@gmail.com)
+- e-mail: [contact@ourtech.community](mailto:contact@ourtech.community)
