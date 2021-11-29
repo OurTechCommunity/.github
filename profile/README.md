@@ -6,7 +6,7 @@ A Tech-loving open-to-all community.
 
 - Informal discussions on Tech every Saturday at 10:30 PM IST via Google Meet.
 - Join in at https://catchup.ourtech.community/attend
-- [CatchUp summaries](https://twitter.com/OurTechComm)
+- [CatchUp summaries](https://catchup.ourtech.community/summary)
 
 ### Socials
 
@@ -14,3 +14,4 @@ A Tech-loving open-to-all community.
 - Twitter: https://twitter.com/OurTechComm
 - Telegram: https://t.me/OurTechComm
 - e-mail: [contact@ourtech.community](mailto:contact@ourtech.community)
+- All links: https://otc.bio.link
