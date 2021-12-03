@@ -4,14 +4,14 @@ A Tech-loving open-to-all community.
 
 ### OTC CatchUp
 
-- Informal discussions on Tech every Saturday at 10:30 PM IST via Google Meet.
+- Informal Tech discussions every Saturday from 10:30 PM IST.
 - Join in at https://catchup.ourtech.community/attend
 - [CatchUp summaries](https://catchup.ourtech.community/summary)
 
 ### Socials
 
 - Web site: https://ourtech.community
+- All links: https://links.ourtech.community
 - Twitter: https://twitter.com/OurTechComm
 - Telegram: https://t.me/OurTechComm
 - e-mail: [contact@ourtech.community](mailto:contact@ourtech.community)
-- All links: https://otc.bio.link
