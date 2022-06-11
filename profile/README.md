@@ -7,7 +7,7 @@ A Tech-loving open-to-all community.
 ### OTC CatchUp
 
 - Informal open-to-all Tech discussions every Saturday from 10:30 PM IST.
-- [Join in!](https://catchup.ourtech.community)
+- Join in: [catchup.ourtech.community](https://catchup.ourtech.community)
 
 ### Socials
 
