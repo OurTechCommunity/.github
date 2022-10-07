@@ -9,6 +9,13 @@ A Tech-loving open-to-all community.
 - Informal open-to-all Tech discussions every Saturday from 10:30 PM IST.
 - Join in: [catchup.ourtech.community](https://catchup.ourtech.community)
 
+### OTC MeetUp
+
+- In-person (offline) Tech meetups to network with people, hold talks, conduct panel discussions, talk about all things Tech and have fun!
+- Explore: [meetup.ourtech.community](https://meetup.ourtech.community)
+  - OTC MeetUp #1: [meetup.ourtech.community/1](https://meetup.ourtech.community/1)
+  - OTC MeetUp #2: [meetup.ourtech.community/2](https://meetup.ourtech.community/2)
+
 ### Socials
 
 - Web site: [ourtech.community](https://ourtech.community)
