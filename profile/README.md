@@ -15,6 +15,11 @@ A Tech-loving open-to-all community.
 - Explore: [meetup.ourtech.community](https://meetup.ourtech.community)
   - OTC MeetUp #1: [meetup.ourtech.community/1](https://meetup.ourtech.community/1)
   - OTC MeetUp #2: [meetup.ourtech.community/2](https://meetup.ourtech.community/2)
+  
+### OTC Talks
+
+- OTC Talks is series of lightning talks on any topic related to tech, design, product, hardware, and anything interesting that you are passionate about!
+- Explore: [talks.ourtech.community](https://talks.ourtech.community)
 
 ### Socials
 
