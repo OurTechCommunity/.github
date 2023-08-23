@@ -13,8 +13,6 @@ A Tech-loving open-to-all community.
 
 - In-person (offline) Tech meetups to network with people, hold talks, conduct panel discussions, talk about all things Tech and have fun!
 - Explore: [meetup.ourtech.community](https://meetup.ourtech.community)
-  - OTC MeetUp #1: [meetup.ourtech.community/1](https://meetup.ourtech.community/1)
-  - OTC MeetUp #2: [meetup.ourtech.community/2](https://meetup.ourtech.community/2)
   
 ### OTC Talks
 
@@ -25,6 +23,6 @@ A Tech-loving open-to-all community.
 
 - Web site: [ourtech.community](https://ourtech.community)
 - All links: [links.ourtech.community](https://links.ourtech.community)
-- Twitter: [twitter.com/OurTechComm](https://twitter.com/OurTechComm)
+- X: [twitter.com/OurTechComm](https://twitter.com/OurTechComm)
 - Telegram: [t.me/OurTechComm](https://t.me/OurTechComm)
 - e-mail: [contact@ourtech.community](mailto:contact@ourtech.community)
